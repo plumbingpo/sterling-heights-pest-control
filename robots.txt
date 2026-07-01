@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sterlingheightspestcontrolco.com/sitemap.xml
